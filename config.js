@@ -36,7 +36,7 @@ global.Func = (await import('./lib/function.js')).default
 
 /*============= BOT CONFIGURATION =============*/
 global.owner = [["62895631966911", "C.KA"]] // [nomor, nama] -> dev utama & creator
-global.costumpairing = "KAGEBOT1"
+global.costumpairing = "KAGEBOT2"
 global.mods = ["62895631966911"]
 global.prems = ["62895631966911"] //Bisa Lebih Dari 1 ya
 global.audioUrl = "https://j.top4top.io/m_3648lcp5h0.mp3"
